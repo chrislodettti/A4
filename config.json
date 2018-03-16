@@ -1,0 +1,6 @@
+{
+    "dbhost": "localhost",
+    "dbuser": "root",
+    "dbname": "blog",
+    "dbpass": "linuxlinux"
+}
